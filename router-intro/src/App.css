@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+html {
+  background-color: lightgray;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
